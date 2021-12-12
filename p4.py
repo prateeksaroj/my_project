@@ -1,8 +1,8 @@
 with open('scp.txt') as f:
     data = f.read()
     print("Old data:\n",data)
-    newdata=""
+    new_data=""
     for char in data:
         if char.isalnum():
-            newdata+=char
-    print("after removing data:\n",newdata)
+            new_data+=char
+    print("after removing data:\n",new_data)
