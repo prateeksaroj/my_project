@@ -1,0 +1,1 @@
+Another way to write scientific notation is to replace the “* 10 ^” with ‘E’ -/capital e\-. So our numbers would look like:s
